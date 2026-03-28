@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\CS\c-sharp-course-2026\task2-cars\src\Task2.Cars\bin\Debug\net10.0\Task2.Cars.exe
+C:\Users\Admin\Desktop\CS\c-sharp-course-2026\task2-cars\src\Task2.Cars\bin\Debug\net10.0\Task2.Cars.deps.json
+C:\Users\Admin\Desktop\CS\c-sharp-course-2026\task2-cars\src\Task2.Cars\bin\Debug\net10.0\Task2.Cars.runtimeconfig.json
+C:\Users\Admin\Desktop\CS\c-sharp-course-2026\task2-cars\src\Task2.Cars\bin\Debug\net10.0\Task2.Cars.dll
+C:\Users\Admin\Desktop\CS\c-sharp-course-2026\task2-cars\src\Task2.Cars\bin\Debug\net10.0\Task2.Cars.pdb
+C:\Users\Admin\Desktop\CS\c-sharp-course-2026\task2-cars\src\Task2.Cars\obj\Debug\net10.0\Task2.Cars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\CS\c-sharp-course-2026\task2-cars\src\Task2.Cars\obj\Debug\net10.0\Task2.Cars.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\CS\c-sharp-course-2026\task2-cars\src\Task2.Cars\obj\Debug\net10.0\Task2.Cars.AssemblyInfo.cs
+C:\Users\Admin\Desktop\CS\c-sharp-course-2026\task2-cars\src\Task2.Cars\obj\Debug\net10.0\Task2.Cars.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CS\c-sharp-course-2026\task2-cars\src\Task2.Cars\obj\Debug\net10.0\Task2.Cars.sourcelink.json
+C:\Users\Admin\Desktop\CS\c-sharp-course-2026\task2-cars\src\Task2.Cars\obj\Debug\net10.0\Task2.Cars.dll
+C:\Users\Admin\Desktop\CS\c-sharp-course-2026\task2-cars\src\Task2.Cars\obj\Debug\net10.0\refint\Task2.Cars.dll
+C:\Users\Admin\Desktop\CS\c-sharp-course-2026\task2-cars\src\Task2.Cars\obj\Debug\net10.0\Task2.Cars.pdb
+C:\Users\Admin\Desktop\CS\c-sharp-course-2026\task2-cars\src\Task2.Cars\obj\Debug\net10.0\Task2.Cars.genruntimeconfig.cache
+C:\Users\Admin\Desktop\CS\c-sharp-course-2026\task2-cars\src\Task2.Cars\obj\Debug\net10.0\ref\Task2.Cars.dll
