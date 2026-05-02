@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Task3.Generics/Task3.Generics.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Task3.Generics.Tests/Task3.Generics.Tests.csproj" />
+  </Folder>
+</Solution>
